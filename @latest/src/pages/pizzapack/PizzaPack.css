@@ -1,0 +1,63 @@
+.cart{
+    display:grid;
+    place-items:center;
+    justify-content:center;
+    align-items:center;
+}
+.cartImg{
+    width:40vh;
+    margin:20px 0;
+}
+.cart h1{
+    color:yellow;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:50px;
+    margin:100px;
+}
+@media screen and (max-width:720px){
+    .cart h1{
+        font-size:30px;
+    }
+}
+@media screen and (max-width:480px){
+    .cart h1{
+        font-size:20px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

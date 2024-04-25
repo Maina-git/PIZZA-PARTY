@@ -1,0 +1,19 @@
+.footer{
+    background:black;
+    flex:100%;
+    height:200px;
+}
+.footer h1{
+    color:white;
+    text-align:center;
+    font-weight:bold;
+    padding:30px;
+    font-size:50px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.footer p{
+    text-align:center;
+    color:rgb(212, 75, 75);;
+    font-size:20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
